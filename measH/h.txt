@@ -1,0 +1,500 @@
+    1  su
+    2  mc
+    3  mkdir hello
+    4  cd hello
+    5  touch hello.html
+    6  git init
+    7  git add hello.html
+    8  git commit -m "First com"
+    9  git status
+   10  git add hello.html
+   11  git status
+   12  git commit
+   13  git status
+   14  git add hello.html
+   15  git status
+   16  git commit -m "fd"
+   17  git status
+   18  git add .
+   19  git status
+   20  git commit -m "fd2"
+   21  git status
+   22  git checkout git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
+   23  git log --pretty=oneline
+   24  git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
+   25  git checkout 2eb3830
+   26  git checkout master
+   27  mc
+   28  mount
+   29  showmount -e
+   30  su
+   31  mc
+   32  mc\
+   33  mc
+   34  source cs-setup 
+   35  make menuconfig
+   36  fdisk
+   37  mount
+   38  make menuconfig
+   39  make modules
+   40  make menuconfig
+   41  make modules
+   42  make menuconfig
+   43  make modules
+   44  make menuconfig
+   45  make modules
+   46  make menuconfig
+   47  cd "`printf "%b" '\0057home\0057sytov'`"
+   48  source cs-setup 
+   49  make modules
+   50  make menuconfig
+   51  make modules
+   52  make clean
+   53  make modules
+   54  lsmode
+   55  make menuconfig
+   56  make modules
+   57  ls
+   58  tar -avf wf.tar *
+   59  tar
+   60  tar --usage
+   61  tar -cvf wf.tar *
+   62  scp wf.tar root@192.168.10.15:/root
+   63  make clean
+   64  tar -cvf wf.tar *
+   65  scp wf.tar root@192.168.10.15:/root
+   66  make menuconfig
+   67  make modules
+   68  tar -cvf wf.tar *
+   69  scp wf.tar root@192.168.10.15:/root
+   70  make uImage
+   71  tar -cvf wf.tar *
+   72  ssh -Y root@192.168.10.15
+   73  mc
+   74  ls
+   75  ls -al
+   76  file u-boot
+   77  file libQtCoreE.so
+   78  file libQtCoreE.so.4.8.1 
+   79  ssh -Y root@192.168.10.15
+   80  ping 192.168.10.16
+   81  ping 192.168.10.15
+   82  ping 192.168.10.16
+   83  ping 192.168.10.17
+   84  ping 192.168.10.16
+   85  ping 192.168.10.17
+   86  apt-get update
+   87  ssh -Y root@192.168.10.17
+   88  ssh -Y root@192.168.10.15
+   89  mc
+   90  source cs-setup 
+   91  make menuconf
+   92  make menuconfig
+   93  mc
+   94  make menuconfig
+   95  make uImage
+   96  source cs-setup 
+   97  make uImage
+   98  tar -cvf wf.tar *
+   99  scp wf.tar root@192.168.10.15:/root
+  100  scp wf.tar root@192.168.10.17:/root
+  101  scp wf.tar root@192.168.10.15:/root
+  102  ping 192.168.10.15
+  103  scp wf.tar root@192.168.10.15:/root
+  104  ssh -Y root@192.168.10.15
+  105  ssh -Y root@192.168.10.15
+  106  ssh -Y root@192.168.10.17
+  107  ssh -Y root@192.168.10.16
+  108  mc
+  109  mcmc
+  110  mc
+  111  ls
+  112  who
+  113  modprobe
+  114  modprob
+  115  lsmod
+  116  source cs-setup 
+  117  make menuconfig
+  118  make modules
+  119  ssh -Y root@192.168.10.15
+  120  ssh -Y root@192.168.10.17
+  121  ifconfig
+  122  mc
+  123  file ssp 
+  124  ldd ssp
+  125  mc
+  126  ssh -Y root@192.168.10.12
+  127  ssh -Y serg@192.168.10.12
+  128  ssh -Y root@192.168.10.12
+  129  su
+  130  mc
+  131  ssh -Y root@192.168.10.12
+  132  ssh -Y root@192.168.10.12 
+  133  ssh -Y root@192.168.10.15
+  134  ssh -Y root@192.168.10.12
+  135  ping 192.168.10.12
+  136  ssh -Y root@192.168.10.12
+  137  ping 192.168.10.12
+  138  ssh -Y root@192.168.10.12
+  139  ping 192.168.10.12
+  140  df rootfs -h
+  141  df rootfs 
+  142  du rootfs -h
+  143  du  -h
+  144  du rootfs -sh
+  145  su
+  146  ping 192.168.10.12
+  147  ssh -Y root@192.168.10.12
+  148  mc
+  149  tar -cvf rfs.tar xukr/rootfsWithoutQt/*
+  150  ssh -Y root@192.168.10.15
+  151  mc
+  152  OR
+  153  make m
+  154  gcc m
+  155  gcc m.c
+  156  `
+  157  gcc -v
+  158  gcc board-technexion-common.c
+  159  gcc b.c
+  160  gcc m.c
+  161  gcc -v
+  162  gcc -std=c99 m.c
+  163  gcc -std=c11 m.c
+  164  gcc -std=c99 m.c
+  165  OA
+  166  gcc -std=c99 m.c
+  167  ?
+  168  ./a.out 
+  169  gcc -std=c99 m.c
+  170  ./a.out 
+  171  gcc -std=c99 m.c
+  172  ./a.out 
+  173  su
+  174  ssh -Y root@192.168.10.12
+  175  mc
+  176  source cs-setup
+  177  make menuconfig
+  178  make uImage
+  179  ls
+  180  make butt_cmd
+  181  file butt_cmd
+  182  file bu
+  183  make butt_cmd
+  184  scp butt_cmd serg@192.168.10.12:/home/serg
+  185  make butt_cmd
+  186  scp butt_cmd serg@192.168.10.12:/home/serg
+  187  make butt_cmd
+  188  scp butt_cmd serg@192.168.10.12:/home/serg
+  189  make butt_cmd
+  190  scp butt_cmd serg@192.168.10.12:/home/serg
+  191  ssh -Y root@192.168.10.12
+  192  ssh -Y root@192.168.10.15
+  193  ssh -Y root@192.168.10.15
+  194  mc
+  195  source cs-setup 
+  196  make butt_cmd
+  197  scp butt_cmd serg@192.168.10.12:/home/serg
+  198  scp butt_cmd root@192.168.10.12:/root
+  199  make butt_cmd
+  200  scp butt_cmd root@192.168.10.15:/root
+  201  su
+  202  mc
+  203  source cs-setup 
+  204  make uImage
+  205  make menuconfig
+  206  ssh -Y root@192.168.10.15
+  207  ssh -Y root@192.168.10.12
+  208  ssh -Y root@192.168.10.15
+  209  ssh -Y root@192.168.10.12
+  210  ssh -Y root@192.168.10.15
+  211  ssh -Y root@192.168.10.12
+  212  ssh -Y root@192.168.10.15
+  213  ssh -Y root@192.168.10.12
+  214  ssh -Y root@192.168.10.15
+  215  ssh -Y root@192.168.10.12
+  216  ssh -Y root@192.168.10.15
+  217  su
+  218  mc\
+  219  mc
+  220  source cs-setup 
+  221  make menuconfig
+  222  make -j 2 uImage
+  223  make butt_cmd
+  224  file butt_cmd
+  225  make butt_cmd
+  226  ssh -Y root@192.168.10.15
+  227  ssh -Y root@192.168.10.12
+  228  ssh -Y root@192.168.10.15
+  229  ssh -Y root@192.168.10.12
+  230  mc
+  231  ./configure -?
+  232  ./configure -h
+  233  ./configure -h |grep vnc
+  234  ./configure -h
+  235  ./configure -h |grep -qt-gfx-vnc
+  236  ./configure -h |grep "-qt-gfx-vnc"
+  237  ./configure -h |grep qt-gfx-vnc
+  238  ./configure -help
+  239  ./configure embedded -help
+  240  ./configure -embedded -help
+  241  mc
+  242  ldconf
+  243  ldconfig
+  244  su
+  245  mc
+  246  source cs-setup 
+  247  make menuconfig
+  248  ssh -Y root@192.168.10.12
+  249  ssh -Y root@192.168.10.15
+  250  ssh -Y root@192.168.10.12
+  251  ssh -Y root@192.168.10.15
+  252  ssh -Y serg@192.168.10.15
+  253  ssh -Y root@192.168.10.15
+  254  setscreen set_timing - "PCLK,XRES,HFP,HBP,HSW,YRES,VFP,VBP,VSW,PHY,BPP"
+  255  ssh -Y root@192.168.10.15
+  256  ssh -Y root@192.168.10.12
+  257  mc
+  258  mc
+  259  scp gpio.* serg@192.168.10.15:/home/serg/hsync
+  260  scp output_file.rbf  serg@192.168.10.15:/home/serg/hsync
+  261  scp gpio.* serg@192.168.10.15:/home/serg/hsync
+  262  scp hsync  serg@192.168.10.15:/home/serg/hsync
+  263  ./ts_calibrate
+  264  scp tslib_tam3517/*  serg@192.168.10.15:/home/serg/hsync
+  265  scp -r tslib_tam3517/*  serg@192.168.10.15:/home/serg/hsync
+  266  scp -r *  serg@192.168.10.15:/home/serg/hsync
+  267  ssh -Y root@192.168.10.15
+  268  ssh -Y root@192.168.10.12
+  269  ssh -Y root@192.168.10.15
+  270  ssh -Y root@192.168.10.12
+  271  ssh -Y root@192.168.10.15
+  272  mc
+  273  ssh -Y root@192.168.10.15
+  274  scp timerClient   serg@192.168.10.15:/home/serg/hsync
+  275  scp hsync   root@192.168.10.15:/home/serg/hsync
+  276  scp hsync.rbf   root@192.168.10.15:/home/serg/hsync
+  277  scp hsync   root@192.168.10.15:/home/serg/hsync
+  278  mc
+  279  mc
+  280  scp hsync   root@192.168.10.15:/home/serg/hsync
+  281  scp hsync   root@192.168.10.15:/home/serg/hsync
+  282  ssh -Y root@192.168.10.12
+  283  ssh -Y root@192.168.10.15
+  284  mc
+  285  scp hsync   root@192.168.10.15:/home/serg/hsync
+  286  ls
+  287  scp hsync.rbf   root@192.168.10.15:/home/serg/hsync
+  288  ssh -Y root@192.168.10.15
+  289  ssh -Y root@192.168.10.15
+  290  ping 192.168.10.15
+  291  ping 192.168.10.12
+  292  ping 192.168.10.14
+  293  ping 192.168.10.15
+  294  ssh -Y root@192.168.10.15
+  295  mc
+  296  su
+  297  ping 192.168.10.15
+  298  sshfs root@192.168.10.15:/
+  299  sshfs root@192.168.10.15:/ /mnt/ssh
+  300  su
+  301  sudo modprobe fuse
+  302  lsmod
+  303  lsmod |grep fuse
+  304  ps xa
+  305  lsmod |grep fuse
+  306  lsmod
+  307  sudo gpasswd -a $sytov fuse
+  308  lsmod |grep fuse
+  309  echo sshfs root@192.168.10.15:/ /mnt/ssh >sshd.sh
+  310  mc
+  311  ./sshd.sh
+  312  lsmod |grep fuse
+  313  ssh -Y root@192.168.10.15
+  314  mc
+  315  ./sshd.sh
+  316  ssh -Y root@192.168.10.15
+  317  ssh -Y root@192.168.10.15
+  318  mc
+  319  OA
+  320  mc
+  321  ./sshd.sh
+  322  ping 194.190.167.10
+  323  ssh -Y root@192.168.10.15
+  324  su
+  325  mc
+  326  su
+  327  mc
+  328  ssh -Y root@192.168.10.15
+  329  ps xa
+  330  ssh -Y root@192.168.10.15
+  331  mc
+  332  scp ssp root@192.168.10.15:/home/work/s
+  333  scp ssp root@192.168.10.15:/home/work/
+  334  scp ssp root@192.168.10.15:/home/work/sp
+  335  scp ssp root@192.168.10.15:/home/serg/sp 
+  336  scp ssp root@192.168.10.15:/home/serg/ssp/sp 
+  337  ssh -Y root@192.168.10.15
+  338  #o5
+  339  ssh -Y root@192.168.10.15
+  340  mc
+  341  su
+  342  ssh -Y root@192.168.10.15
+  343  ssh -Y root@192.168.10.12
+  344  ssh -Y root@192.168.10.15
+  345  ssh -Y root@192.168.10.15
+  346  scp ssp root@192.168.10.15:/home/serg.tar 
+  347  scp root@192.168.10.15:/home/serg.tar 
+  348  scp root@192.168.10.15:/home/serg.tar sergSSP.tar
+  349  mc
+  350  scp sergSSP.tar root@192.168.10.15:/home/serg/
+  351  ssh -Y root@192.168.10.15
+  352  mc
+  353  scp ssp root@192.168.10.15:/home/serg/
+  354  scp ssp root@192.168.10.15:/home/serg/ssp
+  355  ssh -Y root@192.168.10.12
+  356  gedit
+  357  mc
+  358  ./sshd.sh
+  359  ./a.out
+  360  source cs-setup 
+  361  make m
+  362  ./m
+  363  ./calendar
+  364  y
+  365  make m
+  366  ./m
+  367  mc
+  368  gedit interfaces 
+  369  mc
+  370  gedit sources.list 
+  371  su
+  372  mc
+  373  df
+  374  ssh -l root@192.168.10.15
+  375  ssh  root@192.168.10.15
+  376  mc
+  377  ./sshd.sh
+  378  cd /mnt/
+  379  ls
+  380  mc
+  381  tar -cvf t.tar *
+  382  tar -cvf --exclude="etc" t.tar *
+  383  tar -cvf --exclude='etc' t.tar *
+  384  tar -cvf --exclude='etc/' t.tar *
+  385  tar -cvf --exclude='etc' t.tar *
+  386  tar -cvf --exclude 'etc' t.tar *
+  387  tar -cvf --exclude='etc/*' t.tar *
+  388  tar -cvf --exclude='etc/*' --exclude='etx/' t.tar *
+  389  tar -cvf --exclude='etc/*' --exclude='etc/' t.tar *
+  390  tar -cvf --exclude='etc' t.tar *
+  391  tar -cvf t.tar * --exclude='etc' 
+  392  ssh  root@192.168.10.15
+  393  su
+  394  ssh  root@192.168.10.15
+  395  ping 192.168.10.15
+  396  ping 192.168.10.12
+  397  mc
+  398  ./sshd.sh
+  399  [M M%
+  400  [M 0.
+  401  su
+  402  mc
+  403  tar -xvf serg/* |gzip ..s.gz
+  404  tar -xvf serg/* |gzip s.gz
+  405  tar -cvf serg/* |gzip s.gz
+  406  tar -cvf test/* |gzip > s.gz
+  407  tar -cvf test/* - |gzip > s.gz
+  408  tar -cvf - test/*  |gzip > s.gz
+  409  tar -one_file_system -cvf - test/*  |gzip > s.gz
+  410  tar -cvf - test/*  |gzip > s.tar.gz
+  411  tar -cvf - rootfs/*  |gzip > ~common/s.tar.gz
+  412  tar -cvf - rootfs/*  |gzip > /home/sytov/common/s.tar.gz
+  413  tar -cvf - rootfs/*  |gzip > /home/sytov/common/timer_20_09_2016.tar.gz
+  414  ssh  root@192.168.10.15
+  415  ssh  root@192.168.10.12
+  416  ping 192.168.10.12
+  417  ssh  root@192.168.10.15
+  418  ssh  root@192.168.10.12
+  419  ping 192.168.10.11
+  420  ssh -l root@192.168.10.12
+  421  ssh -l root 192.168.10.12
+  422  ssh  root@192.168.10.12
+  423  ssh  root@192.168.10.11
+  424  ping 192.168.10.12
+  425  ssh  root@192.168.10.12
+  426  su
+  427  ssh  serg@192.168.10.12
+  428  ssh  serg@192.168.10.15
+  429  ssh  serg@192.168.10.12
+  430  ssh  root@192.168.10.12
+  431  mc
+  432  ssh  root@192.168.10.12
+  433  mc
+  434  ssh  root@192.168.10.12
+  435  su
+  436  mc
+  437  gedit gpio.c 
+  438  ssh  root@192.168.10.15
+  439  ssh  root@192.168.10.12
+  440  ssh  root@192.168.10.15
+  441  mc
+  442  gedit copyFileSystemFromEmb.txt 
+  443  source cs-setup
+  444  make menuconfig
+  445  mc
+  446  df
+  447  mc
+  448  gedit environment-setup 
+  449  gedit en
+  450  gedit environment-setup 
+  451  ssh -Y -C root@192.168.10.19
+  452  mc
+  453  echo $CPATH
+  454  mc
+  455  su
+  456  exit
+  457  su
+  458  su
+  459  ping 192.168.10.15
+  460  ping 192.168.10.12
+  461  ssh -Y -C root@192.168.10.12
+  462  ping 192.168.10.12
+  463  ping 192.168.10.15
+  464  ssh -Y -C root@192.168.10.15
+  465  ssh -Y -C root@192.168.10.12
+  466  ssh -Y -C root@192.168.10.15
+  467  ssh -Y -C root@192.168.10.12
+  468  mc
+  469  ssh -Y -C serg@192.168.10.12
+  470  ssh -Y -C root@192.168.10.12
+  471  mc
+  472  ping 192.168.10.15
+  473  ping 192.168.10.12
+  474  ssh -Y -C root@192.168.10.12
+  475  ssh -Y -C serg@192.168.10.12
+  476  su
+  477  ssh -Y -C serg@192.168.10.12
+  478  ssh -Y -C root@192.168.10.12
+  479  mc
+  480  bye
+  481  shutdown
+  482  bye
+  483  su
+  484  mc\
+  485  mc
+  486  chmod
+  487  bye
+  488  bye
+  489  chmod
+  490  shutdown -hP 0
+  491  /sbin/shutdown -hP 0
+  492  visudo
+  493  su
+  494  mc
+  495  su
+  496  mc
+  497  ifconfig
+  498  su
+  499  mc
+  500  history >h.txt
